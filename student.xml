@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+  <firstName>Oleh</firstName>
+  <yearOfBirth>1995</yearOfBirth>
+  <age>28</age>
+  <maritalStatus>false</maritalStatus>
+  <children>null</children>
+  <gender>male</gender>
+  <phoneNumber>380989059519</phoneNumber>
+  <description>
+    <direction>philosophy</direction>
+    <сoursework>relations</сoursework>
+    <english>intermediate</english>
+  </description>
+ 
+ </students>
