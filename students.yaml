@@ -1,0 +1,14 @@
+student:
+  firstName: Oleh
+  yearOfBirth: 1995
+  age: 28
+  maritalStatus: false
+  children: null
+  gender: male
+  phoneNumber: 380989059519
+  friends: "Igor \"1994\" \"29\" \"false\" \"null\" \"male\" 380635634508"
+  brother: "Yurii \"1991\" \"32\" \"true\" \"true\" \"male\"  380965696432"
+  description:
+    direction: philosophy
+    сoursework: relations
+    englishLevel: intermediate
